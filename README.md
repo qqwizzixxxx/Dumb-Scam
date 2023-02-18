@@ -1,2 +1,1 @@
-# Dumb-Scam
-Bruh idk
+Dont Use It Was Joke
