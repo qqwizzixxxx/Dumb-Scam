@@ -113,7 +113,7 @@ Notification:Notify(
 		GUI.Parent = nil
 
 
-		-- sussy script goes here
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/qqwizzixxxx/HVD/main/Speed%20Hack%20Bypass%20Gui.lua"))()
 	end
 end)
 
